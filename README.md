@@ -99,22 +99,9 @@ My name is Md. Fahim Shakil Chowdhury, and I am a dedicated programmer, develope
 <hr/>
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=0xCaptainFahim&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=0xCaptainFahim&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=0xCaptainFahim&show_icons=true" />
-</picture>
-
- 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xCaptainFahim)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCaptainFahim)](https://github.com/0xCaptainFahim/github-readme-stats)
+
 
 
