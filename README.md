@@ -35,6 +35,11 @@ My name is Md. Fahim Shakil Chowdhury, and I am a dedicated programmer, develope
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,kali,dotnet,debian,windows,latex,linux,vscode,visualstudio,github,discord,replit,cpp" />
     <img src="https://skillicons.dev/icons?i=python,javascript,go,firebase,mongodb,c,cs,java,arduino,mysql,kotlin,notion,obsidian,git" /><br>
+	<img src="https://img.shields.io/badge/Nmap-%23FFB400.svg?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>  <!-- Nmap Badge -->
+	<img src="https://img.shields.io/badge/Google_Dorking-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Dorking"/> 
+	<img src="https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/> <!-- Google Dorking Badge --><!-- Maltego Badge -->
+	<img src="https://img.shields.io/badge/Shodan-%23FF6F00.svg?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>  <!-- Shodan Badge -->
+	<img src="https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/> 
 </div>
 
 
