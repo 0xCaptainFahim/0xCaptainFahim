@@ -48,10 +48,20 @@ My name is Md. Fahim Shakil Chowdhury, and I am a dedicated programmer, develope
 <div align="center">
   <h2>🐍Fake Friends are Undermining My Contributions 🐍</h2>
   <br>
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> 
   <br/><br/><br/>
+
 </div>
 <hr/>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xCaptainFahim)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 # 🙋‍♂️ Captain is here 😎
@@ -101,7 +111,7 @@ My name is Md. Fahim Shakil Chowdhury, and I am a dedicated programmer, develope
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xCaptainFahim)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
