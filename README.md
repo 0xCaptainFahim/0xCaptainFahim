@@ -60,7 +60,8 @@ My name is Md. Fahim Shakil Chowdhury, and I am a dedicated programmer, develope
 <hr/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xCaptainFahim)](https://github.com/ryo-ma/github-profile-trophy)
+
+ ![](https://github-trophies.vercel.app/?username=0xCaptainFahim)
 
 
 
