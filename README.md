@@ -18,9 +18,23 @@
 
 
 
-**`0xCaptainFahim --> (Programmer / Developer/ Security Researcher)`**
+**`0xCaptainFahim --> (Programmer | Developer | CyberSecurity Researcher)`**
 
-My name is Md. Fahim Shakil Chowdhury, and I am a dedicated programmer, developer, and security researcher with a strong interest in both development and cybersecurity. I am currently pursuing a Bachelor of Science in Computer Science and Engineering (CSE) at Ahsanullah University of Science and Technology, where I have built a solid foundation in programming, system architecture, and cybersecurity practices. I have worked on various projects across different domains. I developed two 2D games using C++ and iGraphx: Treasure Hunt, an interactive adventure, and Warrior of the Dark Shadow, a dark fantasy action game inspired by Demon Slayer. These projects reflect my interest in game development and my ability to create immersive experiences using graphical libraries. I also developed a multifunctional Hospital Management System mobile app, designed to streamline healthcare operations with features like patient management and appointment scheduling. In addition, I have built over four websites, including two versions of my personal portfolio (one using Google Sites, another with JavaScript), and a Dream Car Dealership site using ASP.NET and C#. I also created a Scientific Calculator using Java, further showcasing my problem-solving abilities and programming skills. As a bug bounty hunter, I have earned over 30 Hall of Fame entries for discovering vulnerabilities on various platforms, including private company programs. My work has allowed me to apply my expertise in penetration testing and vulnerability assessment in real-world scenarios. Currently, I am conducting thesis research on integrating machine learning with behavioral biometrics, focusing on continuous user authentication, intrusion detection, and insider threat detection, while also expanding my knowledge in bug bounty hunting to align with my long-term goals in cybersecurity.
+┌──(𝐧𝐨𝐭𝐡𝐚𝐜𝐤𝐞𝐫㉿0𝐱𝐂𝐚𝐩𝐭𝐚𝐢𝐧𝐅𝐚𝐡𝐢𝐦)-[~] 
+└─$
+My name is 𝓜𝓭. 𝓕𝓪𝓱𝓲𝓶 𝓢𝓱𝓪𝓴𝓲𝓵 𝓒𝓱𝓸𝔀𝓭𝓱𝓾𝓻𝔂 and I am a 𝒅𝒆𝒅𝒊𝒄𝒂𝒕𝒆𝒅 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓, 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝒂𝒏𝒅 𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒓𝒆𝒔𝒆𝒂𝒓𝒄𝒉𝒆𝒓 𝒘𝒊𝒕𝒉 𝒂 𝒔𝒕𝒓𝒐𝒏𝒈 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕 𝒊𝒏 𝒃𝒐𝒕𝒉 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚. I am a 𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒊𝒏 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 (𝑪𝑺𝑬) from Ahsanullah University of Science and Technology. With 𝒐𝒗𝒆𝒓 2 𝒚𝒆𝒂𝒓𝒔 𝒐𝒇 𝒐𝒗𝒆𝒓𝒂𝒍𝒍 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆, I am currently working as a 𝑪𝒚𝒃𝒆𝒓 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝒂𝒏𝒅 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑨𝒏𝒂𝒍𝒚𝒔𝒕 𝒂𝒕 𝑵𝒆𝒐𝒔𝑪𝒐𝒅𝒆𝒓, 𝒕𝒉𝒆 𝑰𝑻 𝒂𝒓𝒎 𝒐𝒇 𝑨𝒌𝒊𝒋 𝑽𝒆𝒏𝒕𝒖𝒓𝒆 𝑮𝒓𝒐𝒖𝒑. In this role, I focus on 𝒔𝒆𝒄𝒖𝒓𝒊𝒏𝒈 𝒕𝒉𝒆 𝒅𝒊𝒈𝒊𝒕𝒂𝒍 𝒊𝒏𝒇𝒓𝒂𝒔𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆 𝒇𝒐𝒓 𝒂𝒍𝒍 𝒔𝒊𝒔𝒕𝒆𝒓 𝒄𝒐𝒏𝒄𝒆𝒓𝒏𝒔 𝒐𝒇 𝒕𝒉𝒆 𝒈𝒓𝒐𝒖𝒑 and ensuring 𝑰𝑺𝑶/𝑰𝑬𝑪 27001:2022 𝒄𝒐𝒎𝒑𝒍𝒊𝒂𝒏𝒄𝒆.
+
+My professional journey is diverse. I served as an 𝑨𝒔𝒔𝒐𝒄𝒊𝒂𝒕𝒆 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒓𝒂𝒄𝒕𝒊𝒕𝒊𝒐𝒏𝒆𝒓 𝒂𝒕 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚𝑴𝒊𝒏𝒅𝑷𝒓𝒐 (Melbourne/Hybrid) for over a year and as a 𝑷𝒆𝒏𝒆𝒕𝒓𝒂𝒕𝒊𝒐𝒏 𝑻𝒆𝒔𝒕𝒆𝒓 𝒂𝒕 𝑪𝒚𝒃𝒆𝒓 𝑩𝒂𝒏𝒈𝒍𝒂 𝑳𝒕𝒅. I also worked as a 𝑪𝒚𝒃𝒆𝒓𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑹𝒆𝒔𝒆𝒂𝒓𝒄𝒉𝒆𝒓 for platforms like 𝑩𝒖𝒈𝒄𝒓𝒐𝒘𝒅, Hackerone(H1) & 𝑰𝒏𝒕𝒊𝒈𝒓𝒊𝒕𝒊. My leadership skills were honed as the 𝑫𝒆𝒑𝒖𝒕𝒚 𝑫𝒊𝒓𝒆𝒄𝒕𝒐𝒓 𝒐𝒇 𝑰𝑻 & 𝑰𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏 at the AUST Career Development Club. Earlier in my career, I built my development foundation through 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒂𝒑𝒑𝒓𝒆𝒏𝒕𝒊𝒄𝒆𝒔𝒉𝒊𝒑𝒔 𝒂𝒕 𝑶𝒄𝒕𝒂𝑵𝒆𝒕 𝒂𝒏𝒅 𝑪𝒐𝒅𝒆𝑨𝒍𝒑𝒉𝒂.
+
+I have worked on various projects across different domains. I developed 𝒕𝒘𝒐 2𝑫 𝒈𝒂𝒎𝒆𝒔 𝒖𝒔𝒊𝒏𝒈 𝑪++ 𝒂𝒏𝒅 𝒊𝑮𝒓𝒂𝒑𝒉𝒙: 𝑻𝒓𝒆𝒂𝒔𝒖𝒓𝒆 𝑯𝒖𝒏𝒕, 𝒂𝒏 𝒊𝒏𝒕𝒆𝒓𝒂𝒄𝒕𝒊𝒗𝒆 𝒂𝒅𝒗𝒆𝒏𝒕𝒖𝒓𝒆, 𝒂𝒏𝒅 𝑾𝒂𝒓𝒓𝒊𝒐𝒓 𝒐𝒇 𝒕𝒉𝒆 𝑫𝒂𝒓𝒌 𝑺𝒉𝒂𝒅𝒐𝒘, a dark fantasy action game inspired by Demon Slayer. Beyond gaming, I created "0𝒙𝑪𝒂𝒑𝒕𝒂𝒊𝒏𝑭𝒂𝒉𝒊𝒎," a 𝒄𝒐𝒎𝒑𝒓𝒆𝒉𝒆𝒏𝒔𝒊𝒗𝒆 𝑩𝒂𝒔𝒉-𝒃𝒂𝒔𝒆𝒅 𝒓𝒆𝒄𝒐𝒏𝒏𝒂𝒊𝒔𝒔𝒂𝒏𝒄𝒆 𝒕𝒐𝒐𝒍 designed for ethical hacking and automated vulnerability analysis. I also built a 𝑩𝒍𝒂𝒄𝒌𝒍𝒊𝒔𝒕𝒆𝒅 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑰𝒏𝒗𝒆𝒏𝒕𝒐𝒓𝒚 𝑻𝒓𝒂𝒄𝒌𝒆𝒓 for Windows environments to enhance system security.
+
+I also developed a 𝒎𝒖𝒍𝒕𝒊𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏𝒂𝒍 𝑯𝒐𝒔𝒑𝒊𝒕𝒂𝒍 𝑴𝒂𝒏𝒂𝒈𝒆𝒎𝒆𝒏𝒕 𝑺𝒚𝒔𝒕𝒆𝒎 𝒎𝒐𝒃𝒊𝒍𝒆 𝒂𝒑𝒑 designed to streamline healthcare operations with features like patient management and appointment scheduling. In addition, I have 𝒃𝒖𝒊𝒍𝒕 𝒐𝒗𝒆𝒓 𝒇𝒐𝒖𝒓 𝒘𝒆𝒃𝒔𝒊𝒕𝒆𝒔, including 𝒕𝒘𝒐 𝒗𝒆𝒓𝒔𝒊𝒐𝒏𝒔 𝒐𝒇 𝒎𝒚 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝒑𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐 (one using Google Sites, another with JavaScript), and a 𝑫𝒓𝒆𝒂𝒎 𝑪𝒂𝒓 𝑫𝒆𝒂𝒍𝒆𝒓𝒔𝒉𝒊𝒑 𝒔𝒊𝒕𝒆 𝒖𝒔𝒊𝒏𝒈 𝑨𝑺𝑷.𝑵𝑬𝑻 𝒂𝒏𝒅 𝑪#. I also created a 𝑺𝒄𝒊𝒆𝒏𝒕𝒊𝒇𝒊𝒄 𝑪𝒂𝒍𝒄𝒖𝒍𝒂𝒕𝒐𝒓 𝒖𝒔𝒊𝒏𝒈 𝑱𝒂𝒗𝒂, further showcasing my problem-solving abilities and programming skills.
+
+As a bug bounty hunter, I have 𝒆𝒂𝒓𝒏𝒆𝒅 𝒐𝒗𝒆𝒓 30+ 𝑯𝒂𝒍𝒍 𝒐𝒇 𝑭𝒂𝒎𝒆 entries for discovering vulnerabilities, receiving a 𝑳𝒆𝒕𝒕𝒆𝒓 𝒐𝒇 𝑨𝒑𝒑𝒓𝒆𝒄𝒊𝒂𝒕𝒊𝒐𝒏 𝒇𝒓𝒐𝒎 𝑵𝑨𝑺𝑨 and acknowledgments from 𝑪𝒊𝒔𝒄𝒐, 𝑳𝒆𝒏𝒐𝒗𝒐, 𝒂𝒏𝒅 𝑹𝒂𝒌𝒖𝒕𝒆𝒏. I have discovered critical vulnerabilities assigned 𝑪𝑽𝑬-2025-6347, 𝑪𝑽𝑬-2025-6346, 𝒂𝒏𝒅 5+ 𝒐𝒕𝒉𝒆𝒓 𝑪𝑽𝑬𝒔. To back this expertise, I hold over 50+ 𝒄𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔.
+
+Currently, I am conducting thesis research on integrating 𝒎𝒂𝒄𝒉𝒊𝒏𝒆 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒃𝒆𝒉𝒂𝒗𝒊𝒐𝒓𝒂𝒍 𝒃𝒊𝒐𝒎𝒆𝒕𝒓𝒊𝒄𝒔, focusing on continuous 𝒖𝒔𝒆𝒓 𝒂𝒖𝒕𝒉𝒆𝒏𝒕𝒊𝒄𝒂𝒕𝒊𝒐𝒏, 𝒊𝒏𝒕𝒓𝒖𝒔𝒊𝒐𝒏 𝒅𝒆𝒕𝒆𝒄𝒕𝒊𝒐𝒏, 𝒂𝒏𝒅 𝒊𝒏𝒔𝒊𝒅𝒆𝒓 𝒕𝒉𝒓𝒆𝒂𝒕 𝒅𝒆𝒕𝒆𝒄𝒕𝒊𝒐𝒏, while also expanding my knowledge in bug bounty hunting to align with my long-term goals in cybersecurity.
+
+
 
 
 
