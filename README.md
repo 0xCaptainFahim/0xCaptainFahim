@@ -22,6 +22,7 @@
 
 ┌──(𝐧𝐨𝐭𝐡𝐚𝐜𝐤𝐞𝐫㉿0𝐱𝐂𝐚𝐩𝐭𝐚𝐢𝐧𝐅𝐚𝐡𝐢𝐦)-[~] 
 └─$
+
 My name is 𝓜𝓭. 𝓕𝓪𝓱𝓲𝓶 𝓢𝓱𝓪𝓴𝓲𝓵 𝓒𝓱𝓸𝔀𝓭𝓱𝓾𝓻𝔂 and I am a 𝒅𝒆𝒅𝒊𝒄𝒂𝒕𝒆𝒅 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓, 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝒂𝒏𝒅 𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝒓𝒆𝒔𝒆𝒂𝒓𝒄𝒉𝒆𝒓 𝒘𝒊𝒕𝒉 𝒂 𝒔𝒕𝒓𝒐𝒏𝒈 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕 𝒊𝒏 𝒃𝒐𝒕𝒉 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝒄𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚. I am a 𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒊𝒏 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 (𝑪𝑺𝑬) from Ahsanullah University of Science and Technology. With 𝒐𝒗𝒆𝒓 2 𝒚𝒆𝒂𝒓𝒔 𝒐𝒇 𝒐𝒗𝒆𝒓𝒂𝒍𝒍 𝒑𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆, I am currently working as a 𝑪𝒚𝒃𝒆𝒓 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 𝒂𝒏𝒅 𝑰𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑨𝒏𝒂𝒍𝒚𝒔𝒕 𝒂𝒕 𝑵𝒆𝒐𝒔𝑪𝒐𝒅𝒆𝒓, 𝒕𝒉𝒆 𝑰𝑻 𝒂𝒓𝒎 𝒐𝒇 𝑨𝒌𝒊𝒋 𝑽𝒆𝒏𝒕𝒖𝒓𝒆 𝑮𝒓𝒐𝒖𝒑. In this role, I focus on 𝒔𝒆𝒄𝒖𝒓𝒊𝒏𝒈 𝒕𝒉𝒆 𝒅𝒊𝒈𝒊𝒕𝒂𝒍 𝒊𝒏𝒇𝒓𝒂𝒔𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆 𝒇𝒐𝒓 𝒂𝒍𝒍 𝒔𝒊𝒔𝒕𝒆𝒓 𝒄𝒐𝒏𝒄𝒆𝒓𝒏𝒔 𝒐𝒇 𝒕𝒉𝒆 𝒈𝒓𝒐𝒖𝒑 and ensuring 𝑰𝑺𝑶/𝑰𝑬𝑪 27001:2022 𝒄𝒐𝒎𝒑𝒍𝒊𝒂𝒏𝒄𝒆.
 
 My professional journey is diverse. I served as an 𝑨𝒔𝒔𝒐𝒄𝒊𝒂𝒕𝒆 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑷𝒓𝒂𝒄𝒕𝒊𝒕𝒊𝒐𝒏𝒆𝒓 𝒂𝒕 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚𝑴𝒊𝒏𝒅𝑷𝒓𝒐 (Melbourne/Hybrid) for over a year and as a 𝑷𝒆𝒏𝒆𝒕𝒓𝒂𝒕𝒊𝒐𝒏 𝑻𝒆𝒔𝒕𝒆𝒓 𝒂𝒕 𝑪𝒚𝒃𝒆𝒓 𝑩𝒂𝒏𝒈𝒍𝒂 𝑳𝒕𝒅. I also worked as a 𝑪𝒚𝒃𝒆𝒓𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑹𝒆𝒔𝒆𝒂𝒓𝒄𝒉𝒆𝒓 for platforms like 𝑩𝒖𝒈𝒄𝒓𝒐𝒘𝒅, Hackerone(H1) & 𝑰𝒏𝒕𝒊𝒈𝒓𝒊𝒕𝒊. My leadership skills were honed as the 𝑫𝒆𝒑𝒖𝒕𝒚 𝑫𝒊𝒓𝒆𝒄𝒕𝒐𝒓 𝒐𝒇 𝑰𝑻 & 𝑰𝒏𝒏𝒐𝒗𝒂𝒕𝒊𝒐𝒏 at the AUST Career Development Club. Earlier in my career, I built my development foundation through 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒂𝒑𝒑𝒓𝒆𝒏𝒕𝒊𝒄𝒆𝒔𝒉𝒊𝒑𝒔 𝒂𝒕 𝑶𝒄𝒕𝒂𝑵𝒆𝒕 𝒂𝒏𝒅 𝑪𝒐𝒅𝒆𝑨𝒍𝒑𝒉𝒂.
